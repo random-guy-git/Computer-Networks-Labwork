@@ -40,29 +40,70 @@ Computer-Networks-Labwork/
 │
 ├── README.md
 │
-├── Lab-Reports/
-│   ├── Experiment_01_Network_Cables.pdf
-│   ├── Experiment_01_Network_Cables.docx
-│   ├── Experiment_02_Basic_Network_Commands.pdf
-│   ├── Experiment_02_Basic_Network_Commands.docx
-│   ├── ...
-│   └── Experiment_13_DHCP_Server.pdf
+├── Lab1/
+│   ├── 1_Network_cabels.pkt
+│   └── Lab1.pdf
 │
-├── Packet-Tracer/
-│   ├── Experiment_01_Network_Cables.pkt
-│   ├── Experiment_02_Basic_Network_Commands.pkt
-│   ├── ...
-│   └── Experiment_13_DHCP_Server.pkt
+├── Lab2/
+│   ├── 2_Basic_Network_Commands.pkt
+│   └── Lab2.pdf
 │
-└── Python-Socket-Programming/
-    ├── tcp_server.py
-    ├── tcp_client.py
-    ├── udp_server.py
-    ├── udp_client.py
-    ├── threaded_server.py
-    ├── client.py
-    └── README.md
+├── Lab3/
+│   ├── 3_Network_Devices.pkt
+│   └── Lab3.pdf
+│
+├── Lab4/
+│   ├── 4_Networking_IP.pkt
+│   └── Lab4.pdf
+│
+├── Lab5/
+│   ├── 5_LAN_Connection.pkt
+│   └── Lab5.pdf
+│
+├── Lab6/
+│   ├── 6_Router_confi.pkt
+│   └── Lab6.pdf
+│
+├── Lab7/
+│   ├── 7_P2P.pkt
+│   └── Lab7.pdf
+│
+├── Lab8/
+│   ├── 8_NAT.pkt
+│   └── Lab8.pdf
+│
+├── Lab9/
+│   ├── 9_Routing_Protocols.pkt
+│   └── Lab9.pdf
+│
+├── Lab10/
+│   ├── 10_TCP_UDP_Client_Server.pkt
+│   ├── Lab10.pdf
+│   ├── tcp_client.py
+│   ├── tcp_server.py
+│   ├── udp_client.py
+│   └── udp_server.py
+│
+├── Lab11/
+│   ├── 11_Socket_Programming.pkt
+│   ├── Lab11.pdf
+│   ├── client.py
+│   └── threaded_server.py
+│
+├── Lab12/
+│   ├── 12_Network_Tools_Exploration.pkt
+│   └── Lab12.pdf
+│
+└── Lab13/
+    ├── 13_DHCP_implentation.pkt
+    └── Lab13.pdf
 ```
+
+### Contents
+
+- **Lab Reports (`Lab1`–`Lab13`):** PDF documentation for each laboratory experiment.
+- **Packet Tracer Files (`.pkt`):** Network topologies and practical configurations associated with the experiments.
+- **Python Implementations:** TCP, UDP, and socket programming implementations included in `Lab10` and `Lab11`.
 
 ## Objectives
 
