@@ -134,7 +134,7 @@ To explore this repository:
    cd Computer-Networks-Labwork
    ```
 
-3. Open the required experiment from the `Lab-Reports` directory.
+3. Open the required experiment from the corresponding directory (`Lab1`–`Lab13`).
 
 4. Open the corresponding `.pkt` file using Cisco Packet Tracer to examine the network topology and configuration.
 
